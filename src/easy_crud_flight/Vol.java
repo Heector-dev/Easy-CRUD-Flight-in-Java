@@ -25,8 +25,7 @@ public class Vol {
 		this.motors = motors;
 	}
 	
-	// no serveix de res posar un constructor buit
-	// constructor sin argumentos
+	// constructor sense arguments
 	public Vol() {
 		
 	}
