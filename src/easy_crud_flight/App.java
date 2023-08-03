@@ -19,7 +19,7 @@ public class App {
 		
         int ch;  
         do {  
-            System.out.println("\n ***(M8) Excercici 2 ***");  
+            System.out.println("\n ***Easy CRUD***");  
             System.out.println("1. Crear Vol"+ "\n" + "2. Veure vol" + "\n" + "3. Donar de baixa un vol" + "\n" + "4. Modificar un vol" + "\n" + "5. Exit");  
             System.out.println("------ Selecciona: ------"); 
             
